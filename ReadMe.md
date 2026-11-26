@@ -7,7 +7,7 @@ This project does XXXXXX.
 Our group consists of 
 - Ahsan Tebha @atebha
 - Paul Stephenson @paulstephenson1
-- Marco Matthews @
+- Marco Matthews @mamatthe
 
 
 # Usage
